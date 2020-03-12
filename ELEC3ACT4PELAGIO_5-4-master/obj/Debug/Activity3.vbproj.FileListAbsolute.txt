@@ -1,0 +1,11 @@
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\bin\Debug\EX3 - 7 SEGMENT MATRIX.exe.config
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\bin\Debug\EX3 - 7 SEGMENT MATRIX.exe
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\bin\Debug\EX3 - 7 SEGMENT MATRIX.pdb
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\bin\Debug\EX3 - 7 SEGMENT MATRIX.xml
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\obj\Debug\Activity3.vbprojAssemblyReference.cache
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\obj\Debug\EX3___7_SEGMENT_MATRIX.Form1.resources
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\obj\Debug\EX3___7_SEGMENT_MATRIX.Resources.resources
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\obj\Debug\Activity3.vbproj.GenerateResource.cache
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\obj\Debug\EX3 - 7 SEGMENT MATRIX.exe
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\obj\Debug\EX3 - 7 SEGMENT MATRIX.xml
+D:\5TH YEAR - 2ND SEM\ELECTIVE 3 - VBNET\EX3 - SSD Matrix\obj\Debug\EX3 - 7 SEGMENT MATRIX.pdb
